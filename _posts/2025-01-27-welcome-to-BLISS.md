@@ -21,4 +21,4 @@ sidebar: []
 ---
 BLISS AI Inc. aims to provide AI solutions that perceive, understand, and communicate with humans and spaces.
 
-[Visit our Technical Notion site](https://blissai.notion.site)
+[Visit our Technical Notion site](https://blissai.notion.site/Bliss-AI-1bbe97cc46fe805f9cd5e0526e34ce48)
